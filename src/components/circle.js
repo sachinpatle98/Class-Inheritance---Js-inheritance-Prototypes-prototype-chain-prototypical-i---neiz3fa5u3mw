@@ -2,8 +2,8 @@
 var Shape = require('./shape.js');
                   
 // declare class
- Class Circle extends Shape {
-                    constructor(color) {
+ class Circle extends Shape {
+          constructor(color) {
   super();
 }
 calculateArea() {
